@@ -1,0 +1,9 @@
+Svar 1: Double och float
+Svar 2: Foreach loop
+Svar 3: Switch satser
+Svar 4: Om talet är mindre än tio och större än noll så blir det true
+Svar 5: boolean
+Svar 6: Man kör en loop i en loop
+Svar 7: 
+Svar 8: else if
+Svar 9: 
